@@ -1,6 +1,6 @@
-
 body {
     background: black;
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2015/07/26/poly-lakeside.jpg');
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -15,7 +15,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    margin-top: 5%;
     height: auto;
     max-width: 100px;
   }
@@ -27,11 +27,11 @@ img {
 
 .links {
       text-align: center;
-      margin-top: 20px;
-      padding: 20px;
+      margin-top: 18px;
+      padding: 15px;
       border: 1px solid white;
       border-width: 2px;
-      width: 290px;
+      width: 280px;
       display: block;
       margin-left: auto;
       margin-right: auto;
