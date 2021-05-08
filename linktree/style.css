@@ -1,6 +1,7 @@
 body {
     background: black;
     background-image: url('https://images.hdqwalls.com/wallpapers/city-futuristic-ny.jpg');
+    background-size: cover;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
